@@ -62,4 +62,4 @@ client.on('message', msg => {
 		msg.reply('No, *slap*');
 	}
 });
-client.login(no);
+client.login(process.env.BOT_TOKEN);
