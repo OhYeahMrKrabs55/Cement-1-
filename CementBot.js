@@ -62,4 +62,4 @@ client.on('message', msg => {
 		msg.reply('No, *slap*');
 	}
 });
-client.login('NzgwMjQ4MDk5NDgxMzIxNDcy.X7sUqw.-fovCyDy0Hmspunuy6DPGWhPI-A');
+client.login(no);
